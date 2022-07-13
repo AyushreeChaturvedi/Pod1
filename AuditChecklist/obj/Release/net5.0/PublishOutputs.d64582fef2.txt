@@ -1,0 +1,17 @@
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\AuditChecklistModule.exe
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\log4net.config
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\AuditChecklistModule.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\AuditChecklistModule.deps.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\AuditChecklistModule.runtimeconfig.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\AuditChecklistModule.pdb
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\log4net.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditChecklist\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

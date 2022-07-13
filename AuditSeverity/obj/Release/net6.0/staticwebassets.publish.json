@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aKSl7wxPI7NGVCmO1aNSDIYYBZHOxaVvnSvKd53U4yI=",
+  "Source": "AuditSeverityModule",
+  "BasePath": "_content/AuditSeverityModule",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

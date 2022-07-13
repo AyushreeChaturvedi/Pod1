@@ -1,0 +1,140 @@
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\appsettings.Development.json
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\appsettings.json
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\AuditAuth.exe
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\AuditAuth.deps.json
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.json
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.dev.json
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\AuditAuth.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\AuditAuth.pdb
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CTS MFPE\AuditAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.AssemblyReference.cache
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfoInputs.cache
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfo.cs
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CoreCompileInputs.cache
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\scopedcss\bundle\AuditAuth.styles.css
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\staticwebassets\AuditAuth.StaticWebAssets.Manifest.cache
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.RazorTargetAssemblyInfo.cache
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CopyComplete
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.dll
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\refint\AuditAuth.dll
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.pdb
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\AuditAuth.genruntimeconfig.cache
+D:\CTS MFPE\AuditAuth\obj\Debug\net5.0\ref\AuditAuth.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.exe
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.deps.json
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.json
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.dev.json
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.pdb
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\scopedcss\bundle\AuditAuth.styles.css
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\staticwebassets\AuditAuth.StaticWebAssets.Manifest.cache
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.RazorTargetAssemblyInfo.cache
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CopyComplete
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\refint\AuditAuth.dll
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.pdb
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\AuditAuth\AuditAuth\obj\Debug\net5.0\ref\AuditAuth.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.exe
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.deps.json
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.json
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.dev.json
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\AuditAuth.pdb
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.AssemblyReference.cache
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfoInputs.cache
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfo.cs
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CoreCompileInputs.cache
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\scopedcss\bundle\AuditAuth.styles.css
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\staticwebassets\AuditAuth.StaticWebAssets.Manifest.cache
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.RazorTargetAssemblyInfo.cache
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CopyComplete
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\refint\AuditAuth.dll
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.pdb
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\AuditAuth.genruntimeconfig.cache
+C:\Users\Niharika Reddy\Downloads\Audit Management APIs\Audit Management APIs\AuditAuth\AuditAuth\obj\Debug\net5.0\ref\AuditAuth.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\AuditAuth.exe
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\AuditAuth.deps.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\AuditAuth.runtimeconfig.dev.json
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\AuditAuth.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\AuditAuth.pdb
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.AssemblyReference.cache
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.AssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\scopedcss\bundle\AuditAuth.styles.css
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\staticwebassets\AuditAuth.StaticWebAssets.Manifest.cache
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.RazorTargetAssemblyInfo.cache
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.csproj.CopyComplete
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\refint\AuditAuth.dll
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.pdb
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\AuditAuth.genruntimeconfig.cache
+C:\Users\ayush\OneDrive\Desktop\AuditManagementSystem final\AuditManagementSystem final\AuditAuth\obj\Debug\net5.0\ref\AuditAuth.dll

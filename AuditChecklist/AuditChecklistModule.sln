@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditChecklistModule", "AuditChecklistModule.csproj", "{F4484B03-DB60-40B7-870E-98F0FC01C5BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditChecklistTesting", "..\AuditChecklistTesting\AuditChecklistTesting.csproj", "{A0AA7C85-D9C6-418D-87AB-6A58BD2BDBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4484B03-DB60-40B7-870E-98F0FC01C5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4484B03-DB60-40B7-870E-98F0FC01C5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4484B03-DB60-40B7-870E-98F0FC01C5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4484B03-DB60-40B7-870E-98F0FC01C5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AA7C85-D9C6-418D-87AB-6A58BD2BDBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AA7C85-D9C6-418D-87AB-6A58BD2BDBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AA7C85-D9C6-418D-87AB-6A58BD2BDBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AA7C85-D9C6-418D-87AB-6A58BD2BDBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91321515-217B-4C0C-B946-3EEF0094BB15}
+	EndGlobalSection
+EndGlobal

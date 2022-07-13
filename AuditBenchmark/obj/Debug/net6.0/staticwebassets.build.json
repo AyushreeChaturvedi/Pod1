@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zJkq6UAE8v+b0b23jJyxBM+jGPfGWIbdhE1X6cDSrBU=",
+  "Source": "AuditBenchmarkModule",
+  "BasePath": "_content/AuditBenchmarkModule",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
